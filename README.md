@@ -9,9 +9,7 @@ I love exploring programming, building small projects, and learning new technolo
 - 🔭 **Current Projects:** executing my own project
 - 🌱 **Learning:** Advanced Python, SQL, and  mongodb
 - 🎯 **Goal:** To build innovative solutions and grow in the IT field  
-- 📫 **Reach Me:** [LinkedIn](www.linkedin.com/in/
-arshiya-samreen-661269316
-)  
+- 📫 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/arshiya-samreen-661269316)
 
 > I believe in continuous learning and turning ideas into real, working code!
 
